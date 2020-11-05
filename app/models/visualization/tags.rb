@@ -1,5 +1,4 @@
 require_relative './member'
-require_relative '../shared_entity'
 
 module CartoDB
   module Visualization

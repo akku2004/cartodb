@@ -1,5 +1,4 @@
 require 'active_record'
-require_relative '../shared_entity'
 
 module Carto
   class SharedEntity < ActiveRecord::Base
