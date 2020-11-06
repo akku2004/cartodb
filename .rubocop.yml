@@ -103,6 +103,9 @@ RSpec/ExampleLength:
 RSpec/ImplicitExpect:
   Enabled: false
 
+RSpec/MultipleExpectations:
+  Max: 10
+
 RSpec/MultipleMemoizedHelpers:
   Max: 15
 
